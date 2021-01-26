@@ -1,0 +1,13 @@
+body{
+    background-color: #F2F3F4;
+    background-size: cover;
+}
+
+a.nav-link{
+    color: #696969;
+}
+.nav-link:hover {
+    color: #D51313 !important;
+}
+
+
